@@ -6,10 +6,12 @@
     color: white;
     padding: 0.75rem 3rem;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     border-radius: 25px;
     font-weight: bold;
+    /* margin: auto;
+    margin-right: 10rem; */
   }
   
   .button:hover,
